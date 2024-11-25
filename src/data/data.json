@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Innovative Web & Mobile App Solutions",
+    "paragraph": "Our team of skilled developers and designers work closely with you to understand your unique needs and create custom solutions that align with your goals."
+  },
+  "About": {
+    "paragraph": "Our mission is to empower businesses of all sizes by providing cutting-edge technology solutions that enhance user experiences and streamline operations. we have the expertise to bring your ideas to life."  ,
+    "Why": [
+      "Expertise and Experience",
+      "Tailored Solutions",
+      "Focus on User Experience (UX/UI)",
+      "Quality Assurance"
+    ],
+    "Why2": [
+      "Proven Track Record",
+      "Quality Assurance & Testing",
+      "Ongoing Support & Maintenance",
+      "Transparent and Collaborative Process"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "E-Commerce Platform",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Online Learning Platform",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Mobile App",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Social Networking App",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "E-Learning Platform",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Event Management and Ticketing App",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Job Portal Website with Resume Builder",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Healthcare Appointment Scheduling App",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Finance & Budgeting Mobile App",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Custom Web Development",
+      "text": "Website Design & Development,E-Commerce Solutions and Website Maintenance & Support."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Mobile App Development",
+      "text": "Native App Development,Cross-Platform App Development and App Maintenance & Support"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Cross-Platform App Development",
+      "text": "React Native Development,Flutter Development and Hybrid Apps for iOS & Android"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "UI/UX Design",
+      "text": "Wireframing & Prototyping,UI/UX Strategy & Design and User Testing & Feedback"
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": " Cybersecurity Solutions",
+      "text": "Security Audit,Data Encryption & Protection and Firewalls & Network Security"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": " App Maintenance & Support",
+      "text": "App Performance Optimization,Bug Fixes & Updates and Regular Security Patches"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "Their team delivered an innovative web application that has improved our workflow and efficiency..",
+      "name": "John Doe, CEO"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "The mobile app developed for us has helped us reach a larger audience and engage users more effectively",
+      "name": "Jane Smith, Marketing Director"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "The new website is not only visually stunning but also highly functional.We saw an increase in site traffic and conversion rates after the launch",
+      "name": "Jane Smith, Marketing Manager"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "We appreciated their ability to listen to our requirements and come up with a solution that is both intuitive and scalable",
+      "name": "Priya Mehta, CTO,"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "Their team provided us with a custom solution for our business needs and delivered a fully integrated web application that streamlined our operations.",
+      "name": "Rahul Gupta,Founder"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "We’ve already seen a significant boost in traffic and our conversion rate has improved drastically.",
+      "name": "Emily Davis, Marketing Director"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Rajesh Kumar",
+      "job": "CEO & Founder"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Arjun Mehta",
+      "job": "Lead Web Developer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Anjali Sharma",
+      "job": "Mobile App Developer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Nisha Gupta",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Operating remotely from Dehradun ,Serving clients worldwide(For meetings, we are available by appointmen)",
+    "phone": " +91-XXXXXXXXXX",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Enhanced User Engagement",
+      "text": "Features like real-time notifications, push alerts, and seamless navigation ensure users stay engaged."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Scalable Growth",
+      "text": "As your business expands, our apps and websites grow with you, adapting to increasing traffic and functionality."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Security & Trust",
+      "text": "We prioritize data protection and security, building trust with your users by offering a safe and reliable experience."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Optimal Performance",
+      "text": "Fast, efficient,and reliable apps/websites create a positive experience for your customers and improve business outcomes"
+    }
+  ]
+}
